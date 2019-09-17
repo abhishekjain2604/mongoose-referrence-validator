@@ -1,0 +1,25 @@
+{
+  "name": "mongoose-referrence-validator",
+  "version": "1.0.0",
+  "description": "This is a plugin for mongoose meant to validate the referrences that are defined in the schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose",
+    "mongodb",
+    "referrence",
+    "validator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekjain2604/mongoose-referrence-validator.git"
+  },
+  "author": "Abhishek Jain <jainabhishek2604@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abhishekjain2604/mongoose-referrence-validator/issues"
+  },
+  "homepage": "https://github.com/abhishekjain2604/mongoose-referrence-validator#readme"
+}

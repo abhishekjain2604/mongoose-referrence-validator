@@ -1,0 +1,14 @@
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules
+
+# VS code files
+*.vscode/
+.vscode
+
+
+package-lock.json
